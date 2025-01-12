@@ -1,4 +1,4 @@
-# Hi I'm Jessa 👋
+## _Hello_, I'm Jessa 👋
 
 👩‍💻 BSIT grad at Cavite State University Bacoor Campus 🎓  
 🌱 Currently learning [Full Stack Development](https://roadmap.sh/full-stack) 🚀  
